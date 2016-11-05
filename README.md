@@ -1,4 +1,4 @@
-# サンプル（プロダクト名）
+# Droneco
 ## 製品概要
 ### Droneco Tech
 
