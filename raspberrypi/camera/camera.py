@@ -2,7 +2,7 @@
 import RPi.GPIO as GPIO
 from picamera import PiCamera
 import sys
-form time import sleep
+from time import sleep
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(26, GPIO.OUT)
 
