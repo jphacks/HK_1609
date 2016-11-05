@@ -37,8 +37,9 @@
 #### API・データ
 #####1. YouTube Data API v3
 ######https://developers.google.com/youtube/v3/
-######YouTubeへ動画をアップロードする機能, および, その際のユーザデータアクセスに必要なOAuth 2.0 プロトコル
-#####2. 
+######pythonによりYouTubeへ動画をアップロードする機能, および, その際のユーザデータアクセス認証に必要なOAuth 2.0 プロトコル
+#####2. Twitter Application Management と TwitterOAuth
+######pythonによりTwitterにツイートする機能, および, その際の認証プログラム
 
 #### フレームワーク・ライブラリ・モジュール
 *
