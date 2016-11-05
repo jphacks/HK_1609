@@ -12,7 +12,7 @@ if __name__ == '__main__':
 	camera.start_preview()
 	#Turn on red LED
 	GPIO.output(26, True)
-	camera.start_recording('./../../DumpVideo'+args[1]+'.h264')
+	camera.start_recording('/home/pi/HK_1609/raspberrypi/camera/h264video/'+args[1]+'.h264')
 	sleep(10)
 	camera.stop_recording()
 	camera.stop_preview()

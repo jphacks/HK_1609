@@ -16,4 +16,4 @@ api = Twython(CONSUMER_KEY,CONSUMER_SECRET,ACCESS_KEY,ACCESS_SECRET)
 
 
 # Do tweet
-api.update_status(status= args[1]+':動画が投稿されたにゃ\n'+'https://www.youtube.com/watch?v='+args[2])
+api.update_status(status= args[1]+':aaaaa\n'+'https://www.youtube.com/watch?v='+args[2])
