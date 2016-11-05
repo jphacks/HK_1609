@@ -36,6 +36,8 @@
 ### 活用した外部技術
 #### API・データ
 #####1. YouTube Data API v3
+######https://developers.google.com/youtube/v3/
+######YouTubeへ動画をアップロードする機能, および, その際のユーザデータアクセスに必要なOAuth 2.0 プロトコル
 #####2. 
 
 #### フレームワーク・ライブラリ・モジュール
